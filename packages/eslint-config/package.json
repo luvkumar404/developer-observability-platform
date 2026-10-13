@@ -1,0 +1,7 @@
+{
+  "name": "@observability/eslint-config",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Shared ESLint config (not implemented in Phase 1)"
+}

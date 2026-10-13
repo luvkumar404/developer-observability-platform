@@ -1,0 +1,7 @@
+{
+  "name": "@observability/worker",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Background worker (not implemented in Phase 1)"
+}

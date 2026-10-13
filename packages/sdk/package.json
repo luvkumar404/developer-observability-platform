@@ -1,0 +1,7 @@
+{
+  "name": "@observability/sdk",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Developer telemetry SDK (not implemented in Phase 1)"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "@observability/web",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Dashboard application (not implemented in Phase 1)"
+}

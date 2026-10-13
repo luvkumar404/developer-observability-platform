@@ -1,0 +1,7 @@
+{
+  "name": "@observability/logger",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Logger package (not implemented in Phase 1)"
+}

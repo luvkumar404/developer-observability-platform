@@ -1,0 +1,7 @@
+{
+  "name": "@observability/db",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Database package (not implemented in Phase 1)"
+}
